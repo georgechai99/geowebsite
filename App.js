@@ -2,9 +2,9 @@ import './App.css';
 import selfie from './images/selfie.png';
 import './styles/style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Experience from './components/experience';
-import Navigation from './components/navigation';
-import Footer from './components/footer';
+import Experience from './src/components/experience';
+import Navigation from './src/components/navigation';
+import Footer from './src/components/footer';
 
 function App() {
   return (
