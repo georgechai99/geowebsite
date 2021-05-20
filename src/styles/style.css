@@ -1,0 +1,255 @@
+body, p, h1, h2, h3 {
+    font-family:'Avenir';
+}
+
+.intro {
+    align-items:center;
+}
+
+.portImage {
+    height:450px;
+    width:450px;
+    border-radius:12px;
+    margin:48px;
+}
+
+.topSection {
+    display:flex;
+    padding-left:148px;
+    margin-right:148px;
+    margin-top:48px;
+    margin-bottom:48px;
+}
+
+.selfie {
+    width: 100%;
+    height: auto;
+  /* margin-left: -50px; */
+}
+
+.circle {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.words {
+    text-align:left;
+    margin-left:5%;
+    margin-top:8%;
+}
+
+.title {
+    font-size:32px;
+    /* font-weight:bold; */
+}
+
+.subtitle {
+    font-size:20px;
+}
+
+.learnMore {
+    color:#6886C5;
+    text-decoration:none;
+}
+
+.learnMore:hover {
+    color: #9AA8C5
+}
+
+.heading {
+    text-align:left;
+    margin-left:136px;
+}
+
+.experienceCard {
+    height:240px;
+    width:305px;
+    border-radius:12px;
+    margin:48px;
+    border:0;
+    background:none;
+}
+
+.cardImage {
+    height:240px;
+    width:305px;
+    border-radius:12px;
+    box-shadow: 2px 2px 5px #ccc;
+}
+
+.cardStack {
+    display:flex;
+    margin-bottom:10%;
+    align-items:center;
+}
+
+.cardText {
+    text-align:left;
+}
+
+.cardsubText {
+    text-align:left;
+    color:grey;
+}
+
+.cardTitle {
+    text-align:left;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.container {
+    display:inline-block;
+    border:none;
+}
+
+.card {
+    border:none!important;
+}
+
+.navigation {
+    text-align:right;
+}
+
+.navbar {
+    padding-top:60px!important;
+    padding-right:136px!important;
+    font-size:20px;
+    padding-left:136px!important;
+}
+
+.navbar-brand {
+    font-size:32px!important;
+}
+
+.navbar-brand:hover {
+    opacity:60%;
+    transition:0.3s;
+}
+
+.nav-link {
+    color:black!important;
+}
+
+.nav-link:hover {
+    opacity:60%;
+    transition:0.3s;
+}
+
+.sofi {
+    color:#00a2c7;
+}
+
+.link:hover {
+    text-decoration:none;
+    opacity:60%;
+    transition:0.3s;
+}
+
+.salesforce {
+    color:#009edb;
+}
+
+.equityzen {
+    color:#008255
+}
+
+.socialIcon {
+    width:30px;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+.socialLinks {
+    float:right;
+    justify-content: flex-end;
+    padding-right:136px;
+}
+
+.bottom {
+    display: flex;
+  justify-content: space-between;
+  padding-top:10%;
+}
+
+.bottomWords {
+    padding-left:136px;
+}
+
+.aboutMe {
+    display:flex;
+    margin-top:100px;
+}
+
+.selfPortrait {
+    width:400px;
+    border-radius:100%;
+    margin-left:136px;
+}
+
+.aboutWords {
+    margin-right:136px;
+    margin-left:50px;
+    margin-top:88px;
+}
+
+.extras {
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:86px;
+}
+
+.extrasTitle {
+    margin-bottom:30px;
+    font-size:24px;
+}
+
+.bookTitle {
+    font-size:18px;
+}
+
+.builtWith {
+    text-align:left;
+}
+
+@media screen and (max-width: 815px) {
+    .extras {
+        display:inline-block;
+        align-items: center;
+        margin-top:86px;
+        margin-bottom:86px;
+        margin-left:136px;
+    }
+    .aboutMe {
+        display:inline-block;
+        margin-top:100px;
+    }
+    .aboutWords {
+        margin-right:136px;
+        margin-left:136px;
+        margin-top:48px;
+    }
+    .extrasTitle {
+        margin-top:40px;
+    }
+
+    .topSection {
+        display:inline-block;
+    }
+
+    .cardText {
+        margin-left:68px;
+    }
+    .cardTitle {
+        margin-left:68px;
+    }
+
+    .cardsubText {
+        margin-left:68px;
+    }
+  }
