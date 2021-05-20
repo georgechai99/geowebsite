@@ -1,5 +1,4 @@
 import './App.css';
-import ProjectGrid from './components/projectGrid';
 import selfie from './images/selfie.png';
 import './styles/style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';

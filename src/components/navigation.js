@@ -15,7 +15,7 @@ function Navigation() {
     </Nav>
     {/* </div> */}
   </Navbar>
-    );
+    ); 
 }
 
 export default Navigation;
