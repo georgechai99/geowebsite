@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav'
 function Navigation() {
     return (
 <Navbar variant="light">
-<Navbar.Brand id="georgeChai" className="mr-auto" href="/">George Chai</Navbar.Brand>
+<Navbar.Brand id="georgeChai" className="mr-auto" href="/" >George Chai</Navbar.Brand>
     <Nav className="ml-auto">
       <Nav.Link class="navWord" href="/">Work</Nav.Link>
       <Nav.Link class="navWord" href="./About">About</Nav.Link>
