@@ -11,6 +11,7 @@ ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
        <Switch>
+         <App />
        <Route exact path="/" component={App} />
         <Route path="/About" component={About} />
        </Switch>
