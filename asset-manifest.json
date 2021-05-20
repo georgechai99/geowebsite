@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/geowebsite/static/css/main.88dbdb90.chunk.css",
+    "main.js": "/geowebsite/static/js/main.0e939321.chunk.js",
+    "main.js.map": "/geowebsite/static/js/main.0e939321.chunk.js.map",
+    "runtime-main.js": "/geowebsite/static/js/runtime-main.5d0660a6.js",
+    "runtime-main.js.map": "/geowebsite/static/js/runtime-main.5d0660a6.js.map",
+    "static/css/2.150d169a.chunk.css": "/geowebsite/static/css/2.150d169a.chunk.css",
+    "static/js/2.0d8983ca.chunk.js": "/geowebsite/static/js/2.0d8983ca.chunk.js",
+    "static/js/2.0d8983ca.chunk.js.map": "/geowebsite/static/js/2.0d8983ca.chunk.js.map",
+    "static/js/3.38e4c81e.chunk.js": "/geowebsite/static/js/3.38e4c81e.chunk.js",
+    "static/js/3.38e4c81e.chunk.js.map": "/geowebsite/static/js/3.38e4c81e.chunk.js.map",
+    "index.html": "/geowebsite/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/geowebsite/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.88dbdb90.chunk.css.map": "/geowebsite/static/css/main.88dbdb90.chunk.css.map",
+    "static/js/2.0d8983ca.chunk.js.LICENSE.txt": "/geowebsite/static/js/2.0d8983ca.chunk.js.LICENSE.txt",
+    "static/media/beacn.a934818d.png": "/geowebsite/static/media/beacn.a934818d.png",
+    "static/media/cvc.614ae388.png": "/geowebsite/static/media/cvc.614ae388.png",
+    "static/media/equityzen.54f79914.png": "/geowebsite/static/media/equityzen.54f79914.png",
+    "static/media/gmail.580a851b.svg": "/geowebsite/static/media/gmail.580a851b.svg",
+    "static/media/headshot.326c0153.jpeg": "/geowebsite/static/media/headshot.326c0153.jpeg",
+    "static/media/linkedin.7defd339.svg": "/geowebsite/static/media/linkedin.7defd339.svg",
+    "static/media/roughdraft.7e98333f.png": "/geowebsite/static/media/roughdraft.7e98333f.png",
+    "static/media/salesforce.4e42a573.png": "/geowebsite/static/media/salesforce.4e42a573.png",
+    "static/media/selfie.3c8086f5.png": "/geowebsite/static/media/selfie.3c8086f5.png",
+    "static/media/sofi.d9aedfc9.png": "/geowebsite/static/media/sofi.d9aedfc9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d0660a6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.0d8983ca.chunk.js",
+    "static/css/main.88dbdb90.chunk.css",
+    "static/js/main.0e939321.chunk.js"
+  ]
+}
