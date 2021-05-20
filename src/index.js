@@ -9,7 +9,6 @@ import About from "./About";
 
 ReactDOM.render(
   <React.StrictMode>
-     <App />
     <BrowserRouter>
        <Switch>
        <Route exact path="/" component={App} />
