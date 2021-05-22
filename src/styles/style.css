@@ -56,15 +56,6 @@ Nav, body, p, h1, h2, h3 {
     font-size:20px;
 }
 
-.learnMore {
-    color:#6886C5;
-    text-decoration:none;
-}
-
-.learnMore:hover {
-    color: #9AA8C5
-}
-
 .heading {
     text-align:left;
     margin-left:136px;
@@ -132,7 +123,7 @@ Nav, body, p, h1, h2, h3 {
 }
 
 .navbar-brand:hover {
-    opacity:60%;
+    opacity:75%;
     transition:0.3s;
 }
 
@@ -141,7 +132,7 @@ Nav, body, p, h1, h2, h3 {
 }
 
 .nav-link:hover {
-    opacity:60%;
+    opacity:75%;
     transition:0.3s;
 }
 
@@ -151,7 +142,7 @@ Nav, body, p, h1, h2, h3 {
 
 .link:hover {
     text-decoration:none;
-    opacity:60%;
+    opacity:75%;
     transition:0.3s;
 }
 

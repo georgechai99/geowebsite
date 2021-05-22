@@ -19,7 +19,7 @@ function Experience(props) {
           <Card.Body>
             <Card.Title class="cardTitle">Sofi</Card.Title>
             <Card.Text class="cardText">
-              Incoming Strategy Analyst
+              Strategic Initiatives
             </Card.Text>
             <Card.Text class="cardsubText">
               September 2021
